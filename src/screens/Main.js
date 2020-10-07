@@ -23,14 +23,6 @@ const Main = () => {
           <h1 class="heading-primary">
             <span class="heading-primary--main name"> Abhishek Chawla</span>
             <span class="heading-primary--sub">Software Engineer</span>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://drive.google.com/file/d/12oaxAQ3AXpsa4hTwR51qgm-OyexltNth/view?usp=sharing"
-              class="btn btn--white btn--animated"
-            >
-              Resume
-            </a>
           </h1>
         </div>
       </div>
@@ -184,3 +176,13 @@ const Main = () => {
 };
 
 export default Main;
+/*
+<a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://drive.google.com/file/d/12oaxAQ3AXpsa4hTwR51qgm-OyexltNth/view?usp=sharing"
+              class="btn btn--white btn--animated"
+            >
+              Resume
+            </a>
+*/
